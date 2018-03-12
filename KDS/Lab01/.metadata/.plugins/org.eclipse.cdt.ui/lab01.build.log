@@ -1,0 +1,11 @@
+20:49:14 **** Incremental Build of configuration Debug for project lab01 ****
+make all 
+'Invoking: Cross ARM GNU Print Size'
+arm-none-eabi-size --format=berkeley "lab01.elf"
+   text	   data	    bss	    dec	    hex	filename
+   9224	    124	   2100	  11448	   2cb8	lab01.elf
+'Finished building: lab01.siz'
+' '
+
+20:49:15 Build Finished (took 612ms)
+
